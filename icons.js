@@ -2,7 +2,7 @@
    Sift — ingredient glyph system
    Every ingredient draws from a small library of shared shapes.
    One 24x24 box, one 1.7 stroke, one 8-hue palette. Reuse is the
-   point: a system of 30 shapes reads as designed, 139 bespoke
+   point: a system of 38 shapes reads as designed, 382 bespoke
    drawings would not.
    ============================================================ */
 (function (global) {
